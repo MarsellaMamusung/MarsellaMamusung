@@ -4,7 +4,7 @@
 
 ---
 
-Hi, I'm Marsella Iriana Mamusung. Welcome to my GitHub profile! I am an Informatics Engineering student at the University of Papua, currently participating in the MSIB Independent Study Program.
+Hi guyss, I'm Marsella Iriana Mamusung - aka sella. Welcome to my GitHub profile! I am an Informatics Engineering student at the University of Papua, currently participating in the MSIB Independent Study Program.
 
 ---
 
@@ -23,8 +23,7 @@ Hi, I'm Marsella Iriana Mamusung. Welcome to my GitHub profile! I am an Informat
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adminikaros&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adminikaros&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarsellaMamusung&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
